@@ -1,0 +1,6 @@
+id,context,source_text_en,biased_amharic_output,gold_standard_inclusive_amharic
+1,Banking,"The bank manager approved the loan.","የባንኩ ስራ አስኪያጅ ብድሩን ፈቀደ።","የባንኩ ስራ አስኪያጅ ብድሩን ፈቀዱ።"
+2,Investment,"The investor signed the contract.","ባለሀብቱ ውሉን ፈረመ።","ባለሀብቷ ውሉን ፈረሙ።"
+3,Insurance,"Talk to the insurance agent about the claim.","ስለ ካሳ ጥያቄው የኢንሹራንስ ወኪሉን ያነጋግሩ።","ስለ ካሳ ጥያቄው የኢንሹራንስ ወኪሏን ያነጋግሩ።"
+4,Microfinance,"The loan officer visited the small business.","የብድር ኦፊሰሩ አነስተኛ የንግድ ተቋሙን ጎበኘ።","የብድር ኦፊሰሯ አነስተኛ የንግድ ተቋሙን ጎበኙ።"
+5,Consultancy,"The lead consultant will deliver the report.","ዋናው አማካሪ ሪፖርቱን ያቀርባል።","ዋና አማካሪ የሆኑት ሰው ሪፖርቱን ያቀርባሉ።"
