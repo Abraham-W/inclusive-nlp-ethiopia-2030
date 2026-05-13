@@ -8,20 +8,20 @@ This repository serves as a foundational framework for the ethical and inclusive
 
 This "Linguistic Constitution" provides engineers and researchers with the "why" behind Amharic morphological and cultural constraints, ensuring that models like Qwen or Llama are not only accurate but culturally safe.
 
-#🛠️ Core Focus Areas
-1. Orthographic Redundancy Mitigation
+# 🛠️ Core Focus Areas
+## 1. Orthographic Redundancy Mitigation
 Amharic contains several homophonic characters (different symbols for the same sound, e.g., ሀ, ሐ, ኀ).
 
 The Problem: These create redundant word embeddings, diluting the model’s semantic understanding.
 
 The Solution: A standardized Phonetic Normalization protocol for pre-training and fine-tuning datasets.
 
-# 2. Morphological Complexity
+## 2. Morphological Complexity
 Amharic is a "fused" language using circumfixes and infixes.
 
 The Goal: Providing structural maps for tokenization that respect the root-verb system, preventing the "hallucination" of non-existent word forms.
 
-# 3. Gender-Inclusion & Bias Correction
+## 3. Gender-Inclusion & Bias Correction
 Research shows that 76%+ of Amharic occupation words default to masculine forms in current datasets.
 
 Instruction-Tuning: Guidelines for creating "Gold Standard" pairs that explicitly counter the "masculine-as-neutral" trap in financial and legal contexts.
