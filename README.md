@@ -1,8 +1,10 @@
 # Inclusive NLP Ethiopia 2030: Bridging Linguistic Sovereignty & AI
-## Status: Research Initiative in support of the Digital Ethiopia 2030 Strategy
 
-# Amharic AI Linguistic Constitution: Guidelines for Frontier LLMs
-## Bridging the Gap Between Linguistic Sovereignty and AI Development
+## Amharic AI Linguistic Constitution: Guidelines for Frontier LLMs
+
+### Bridging the Gap Between Linguistic Sovereignty and AI Development
+#### Status: Research Initiative in support of the Digital Ethiopia 2030 Strategy
+
 # 📌 Overview
 This repository serves as a foundational framework for the ethical and inclusive localization of LLMs in the Amharic language. As part of the Digital Ethiopia 2030 mission, these guidelines aim to resolve the systemic "noise" and biases found in low-resource language datasets.
 
