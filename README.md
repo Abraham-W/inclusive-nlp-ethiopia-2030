@@ -36,9 +36,6 @@ evaluations/: (Coming Soon) Comparative analysis of current LLM performance in A
 # 🤝 Collaboration & Contribution
 This project is an open resource for the Masakhane research community and global AI labs. If you are working on Ethiopic scripts or inclusive NLP, I welcome your feedback.
 
-# Author: Abraham Worku Woldeselassie
-# Status: Active Research Project
-
+Author: Abraham Worku Woldeselassie
 Status: Active Research Project
-
 Affiliations: Honorary Awardee (Adaption AI), Masakhane Member.
